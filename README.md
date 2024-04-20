@@ -1,4 +1,11 @@
-# Bellande 3D Computer Vision Models
+# 📦 Bellande 3D Computer Vision Models
+
+**Temporarily Disabled**
+### Research Organization for Open-source/Semi-open-source API
+- The API documentation for the Bellande Probabilistic Models can be found on [Bellande Artificial Intelligence & Computer Vision Research Innovation Center Website](https://artificial-intelligence-computer-vision.github.io), a platform dedicated to open-source and semi-open-source APIs.
+
+### Model Downloads
+- For downloading the Bellande Motion Probabilistic Models, please visit [Bellande Artificial Intelligence & Computer Vision Research Innovation Center Website](https://artificial-intelligence-computer-vision.github.io)
 
 ## Model 1
 **Description:** Model 1 is a lightweight model designed with simplicity in mind. With just 1GB of parameters, it provides a quick and efficient solution for basic classification tasks.
