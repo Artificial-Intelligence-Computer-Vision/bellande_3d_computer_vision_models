@@ -66,3 +66,7 @@
 
 ## Model 20
 **Description:** Model 20, our flagship model, is an absolute giant with a massive 233GB of parameters. It is capable of handling the most complex and data-intensive tasks with unparalleled accuracy and efficiency, marking a significant milestone in the evolution of machine learning.
+
+
+## License
+This Algorithm or Models is distributed under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/), see [LICENSE](https://github.com/RonaldsonBellande/bellande_3d_computer_vision_models/blob/main/LICENSE) and [NOTICE](https://github.com/RonaldsonBellande/bellande_3d_computer_vision_models/blob/main/LICENSE) for more information.
